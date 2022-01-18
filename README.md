@@ -1,6 +1,6 @@
 # Personal Homepage
 
-Visit [sans242.github.io](https://sans242.github.io) for the hosted homepage.
+Visit [srajanjain1.github.io](https://srajanjain1.github.io/) for the hosted homepage.
 
 # Credits
 
