@@ -11,7 +11,7 @@ url: ""
 title: Home
 
 # Your name to show in the footer
-author: Sanskar Sanjay Shah
+author: Srajan Jain
 
 # --- List of links in the navigation bar --- #
 
@@ -44,15 +44,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "sanskars@iitk.ac.in"
-  facebook: sanskar.shah.242
-  github: sans242
+  email: "srajan@iitk.ac.in"
+  facebook: srajan.jain.501
+  github: SrajanJain1
   # twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-  linkedin: sanskar242
+  linkedin: Srajan Jain
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -83,7 +83,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "sans242.github.io"
+url-pretty: "SrajanJain1.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
